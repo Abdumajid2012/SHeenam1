@@ -16,6 +16,5 @@ namespace Sheenam.Api.Tests.Unit
     {
         [Fact]
         public void ShouldBeTrue() => Assert.True(true);
-
     }
 }
