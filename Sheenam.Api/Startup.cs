@@ -21,7 +21,6 @@ namespace Sheenam.Api
 
         public IConfiguration Configuration { get; }
 
-
         public void ConfigureServices(IServiceCollection services)
         {
             var apiInfo = new OpenApiInfo
